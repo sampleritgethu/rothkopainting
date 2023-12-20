@@ -1,2 +1,2 @@
 # rothkopainting
-thankyou freecodecamp . build survey form using html and css
+thankyou freecodecamp . build rothko painting using html and css
